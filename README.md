@@ -1,4 +1,4 @@
-# DevOps Training Portal - Batch 101
+# DevOps 
 
 A beautiful Java web application for Jenkins, Docker, Kubernetes, and Terraform training by Kastro Kiran V.
 
@@ -18,8 +18,4 @@ A beautiful Java web application for Jenkins, Docker, Kubernetes, and Terraform 
 - **Database**: JSON-based data (easily extensible to RDBMS)
 
 
-Access via: `http://your-ec2-ip:8080/devops-training-portal`
 
----
-
-**Learn With KASTRO**
